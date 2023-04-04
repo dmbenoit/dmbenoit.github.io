@@ -1,8 +1,8 @@
-## Portfolio
+## Selected data science projects
 
 ---
 
-### Category Name 1 
+### Exploring patterns and drivers of spatial overlap in freshwater fishes using a multivariate regression tree
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
