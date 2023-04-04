@@ -1,4 +1,4 @@
-## Selected data science projects
+# Selected data science projects
 
 ---
 
@@ -7,8 +7,10 @@
 
 #### Using a multivariate regression tree, I identified five clusters of lakes exhibiting different patterns of spatial overlap and found that temperature and lake depth are strong drivers of these patterns. These findings provide a better understanding of broad-scale patterns of spatial overlap and allow us to predict how spatial overlap, and ultimately species interactions and competition, may change under a warming climate.
 
-[Project 1 Title](/sample_page)
+
 <img src="images/Regression_tree.jpg?raw=true"/>
+
+[View code](/sample_page)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
