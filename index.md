@@ -13,8 +13,17 @@ Using a multivariate regression tree, I identified five clusters of lakes exhibi
 [View code](/sample_page)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Size spectrum model revelas importance of considering species interactions in a freshwater fisheries management context
+Inland fisheries have a significant cultural and economic value around the globe, providing dietary protein, income, and recreation. Consequently, methods for monitoring and managing these important fisheries are continually being refined. In this study, I developed a multispecies size spectrum model for the fish community
+of Lake Nipissing, a large, productive lake in Ontario, Canada.
+
+Using this model, I explored the impacts of potential fishing regimes and management scenarios on fish community dynamics while taking species interactions into account. I found that community dynamics following changes in fishing mortality were driven by complex interactions among species, including competition and predation.
+
+<img src="images/Size_spectrum.png?raw=true"/>
+
+[View code](/pdf/sample_presentation.pdf)
+
 
 ---
 [Project 3 Title](http://example.com/)
