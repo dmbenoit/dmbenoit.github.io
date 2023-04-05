@@ -34,18 +34,21 @@ In this study, I explored the guild structure of fishes of the Great Lakes Basin
 
 <img src="images/Cluster_analysis.png?raw=true"/>
 
-[View code](http://example.com/)
+[View code](/sample_page)
 ---
 
-### Category Name 2
+### Identifying influential parameters of a multi-species model through sensitivity analyses
+Ecosystem-based approaches that take species interactions into account have shifted to the forefront of fisheries modelling and management in recent years. As a
+result, multispecies size spectrum models have been increasingly used to explore impacts of fishing on marine community dynamics.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+In this study, I conducted a comprehensive global sensitivity analysis pairing the Morris and Sobol methods to identify
+life-history parameters having the largest influence on model outputs.
 
----
+<img src="images/Morris.png?raw=true"/>
+
+[View code](/pdf/sample_presentation.pdf)
+
+
 
 
 
