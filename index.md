@@ -28,7 +28,7 @@ Using this model, I explored the impacts of potential fishing regimes and manage
 ---
 
 ### Creating sortable guilds for fishes of the Great Lakes using dimension reduction techniques and cluster analysis
-Selective fish sorting, wherein desirable species are passed at barriers and undesirable species are blocked, has been proposed as a method to solve dam-induced habitat fragmentation in rivers.Sorting systems that separate fish based on shared attributes among groups of species (i.e., guilds) are anticipated to be a more efficient solution than separating every individual species. 
+Selective fish sorting, wherein desirable species are passed at barriers and undesirable species are blocked, has been proposed as a method to solve dam-induced habitat fragmentation in rivers. Sorting systems that separate fish based on shared attributes among groups of species (i.e., guilds) are anticipated to be a more efficient solution than separating every individual species. 
 
 In this study, I explored the guild structure of fishes of the Great Lakes Basin as well as potential invaders (220 species) using 21 traits associated with phenology, morphology, physiology, and behaviour. Using multivariate ordinations and cluster analysis, I identified five guilds dictated by major gradients in migratory status, spawning temperature, maximum total length, relative eye size, trophic level, and the ability to perceive sound and electrical fields.
 
