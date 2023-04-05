@@ -10,7 +10,7 @@ Using a multivariate regression tree, I identified five clusters of lakes exhibi
 
 <img src="images/Regression_tree.jpg?raw=true"/>
 
-[View code](/sample_page)
+[View code on github](/sample_page)
 
 ---
 
@@ -22,7 +22,7 @@ Using this model, I explored the impacts of potential fishing regimes and manage
 
 <img src="images/Size_spectrum.png?raw=true"/>
 
-[View code](/pdf/sample_presentation.pdf)
+[View code on github](/pdf/sample_presentation.pdf)
 
 
 ---
@@ -34,7 +34,7 @@ In this study, I explored the guild structure of fishes of the Great Lakes Basin
 
 <img src="images/Cluster_analysis.png?raw=true"/>
 
-[View code](/sample_page)
+[View code on github](/sample_page)
 
 ---
 
@@ -47,7 +47,7 @@ life-history parameters having the largest influence on model outputs.
 
 <img src="images/Morris.png?raw=true"/>
 
-[View code](/pdf/sample_presentation.pdf)
+[View code on github](/pdf/sample_presentation.pdf)
 
 
 
