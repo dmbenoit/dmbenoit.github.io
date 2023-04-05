@@ -35,6 +35,7 @@ In this study, I explored the guild structure of fishes of the Great Lakes Basin
 <img src="images/Cluster_analysis.png?raw=true"/>
 
 [View code](/sample_page)
+
 ---
 
 ### Identifying influential parameters of a multi-species model through sensitivity analyses
