@@ -8,7 +8,7 @@ The spatial distribution of fishes is strongly dependent on the temperature of t
 Using a multivariate regression tree, I identified five clusters of lakes exhibiting different patterns of spatial overlap and found that temperature and lake depth are strong drivers of these patterns. These findings provide a better understanding of broad-scale patterns of spatial overlap and allow us to predict how spatial overlap, and ultimately species interactions and competition, may change under a warming climate.
 
 <p align="center">
-// Results of multivariate regression tree showing patterns of spatial overlap among fishes in lakes across Ontario 
+### Figure 1: Results of multivariate regression tree showing patterns of spatial overlap among fishes in lakes across Ontario 
 </p>
 <img src="images/Regression_tree.jpg?raw=true"/>
 
