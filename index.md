@@ -24,6 +24,9 @@ of Lake Nipissing, a large, productive lake in Ontario, Canada.
 
 Using this model, I explored the impacts of potential fishing regimes and management scenarios on fish community dynamics while taking species interactions into account. I found that community dynamics following changes in fishing mortality were driven by complex interactions among species, including competition and predation.
 
+<p align="center">
+<b> Figure 1: Biomass across time following species-specific increases (panels a-d) and decreases (panels e-h) in fishing mortality in 2022 </b>
+</p>
 <img src="images/Size_spectrum.png?raw=true"/>
 
 [View code on github](/pdf/sample_presentation.pdf)
