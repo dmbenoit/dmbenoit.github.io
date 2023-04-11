@@ -39,6 +39,9 @@ Selective fish sorting, wherein desirable species are passed at barriers and und
 
 In this study, I explored the guild structure of fishes of the Great Lakes Basin as well as potential invaders (220 species) using 21 traits associated with phenology, morphology, physiology, and behaviour. Using multivariate ordinations and cluster analysis, I identified five guilds dictated by major gradients in migratory status, spawning temperature, maximum total length, relative eye size, trophic level, and the ability to perceive sound and electrical fields.
 
+<p align="center">
+<b> Figure 1: Cluster analysis for fishes of the Great Lakes using Ward's minimum variance method </b>
+</p>
 <img src="images/Cluster_analysis.png?raw=true"/>
 
 [View code on github](/sample_page)
@@ -52,6 +55,9 @@ result, multispecies size spectrum models have been increasingly used to explore
 In this study, I conducted a comprehensive global sensitivity analysis pairing the Morris and Sobol methods to identify
 life-history parameters having the largest influence on model outputs.
 
+<p align="center">
+<b> Figure 1: Morris sesnitivity analysis results assessing the direct influence and potential interactive or non-linear effects of size spectrum model parameters on (a) slope, (b) scatter, (c) total biomass, and (d) diversity </b>
+</p>
 <img src="images/Morris.png?raw=true"/>
 
 [View code on github](/pdf/sample_presentation.pdf)
