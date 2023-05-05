@@ -14,8 +14,7 @@ Using a multivariate regression tree, I identified five clusters of lakes exhibi
 <img src="images/Regression_tree.jpg?raw=true"/>
 
 
-[View code on github]
-<a href="https://github.com/dmbenoit/projects/blob/bd375614ba695f42f2460f99431bd7488af94761/Chap4%20Analysis%20MVRT%20based%20on%20guild%20interactions.R"> Something </a>
+<a href="https://github.com/dmbenoit/projects/blob/bd375614ba695f42f2460f99431bd7488af94761/Chap4%20Analysis%20MVRT%20based%20on%20guild%20interactions.R"> [View code on github] </a>
 
 ---
 
