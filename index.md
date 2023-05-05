@@ -44,7 +44,7 @@ In this study, I explored the guild structure of fishes of the Great Lakes Basin
 </p>
 <img src="images/Cluster_analysis.png?raw=true"/>
 
-[View code on github](/sample_page)
+<a href= "https://github.com/dmbenoit/projects/blob/ec9b1b20e3ab98cce1a1c9ff4148ddc102b24f0d/Cluster%20Analysis%20for%20Fishes%20of%20the%20Great%20Lakes.R" > [View code on github] </a>
 
 ---
 
