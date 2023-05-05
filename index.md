@@ -29,7 +29,7 @@ Using this model, I explored the impacts of potential fishing regimes and manage
 </p>
 <img src="images/Size_spectrum.png?raw=true"/>
 
-[View code on github](/pdf/sample_presentation.pdf)
+<a href = "https://github.com/dmbenoit/projects/blob/9df8c45aa99345df253ee182bc33e45222c5d599/Fishery%20Management%20Modelling%20Scenarios.R" > [View code on github] </a>
 
 
 ---
