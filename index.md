@@ -56,11 +56,11 @@ In this study, I conducted a comprehensive global sensitivity analysis pairing t
 life-history parameters having the largest influence on model outputs.
 
 <p align="center">
-<b> Figure 1: Morris sesnitivity analysis results assessing the direct influence and potential interactive or non-linear effects of size spectrum model parameters on (a) slope, (b) scatter, (c) total biomass, and (d) diversity </b>
+<b> Figure 1: Morris sensitivity analysis results assessing the direct influence and potential interactive or non-linear effects of size spectrum model parameters on (a) slope, (b) scatter, (c) total biomass, and (d) diversity </b>
 </p>
 <img src="images/Morris.png?raw=true"/>
 
-[View code on github](/pdf/sample_presentation.pdf)
+<a href = "https://github.com/dmbenoit/projects/blob/e0f4694159778d405325f234286435ea8293488e/Morris%20Sensitivity%20Analysis%20(PhD%20Chapter%202).R"> [View code on github] </a>
 
 
 
